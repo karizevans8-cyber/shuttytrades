@@ -1,0 +1,1 @@
+import { FaqPage } from "@/components/DemoApp"; export default FaqPage;

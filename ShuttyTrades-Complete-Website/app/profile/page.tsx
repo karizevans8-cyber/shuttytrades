@@ -1,0 +1,1 @@
+import { ProfilePage } from "@/components/DemoApp"; export default ProfilePage;

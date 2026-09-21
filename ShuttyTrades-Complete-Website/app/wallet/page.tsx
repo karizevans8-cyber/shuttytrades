@@ -1,0 +1,1 @@
+import { WalletPage } from "@/components/DemoApp"; export default WalletPage;

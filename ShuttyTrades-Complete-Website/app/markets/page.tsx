@@ -1,0 +1,1 @@
+import { MarketsPage } from "@/components/DemoApp"; export default MarketsPage;

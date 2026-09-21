@@ -1,0 +1,1 @@
+import { AdminPage } from "@/components/DemoApp"; export default AdminPage;

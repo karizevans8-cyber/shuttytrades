@@ -1,0 +1,1 @@
+import { SettingsPage } from "@/components/DemoApp"; export default SettingsPage;

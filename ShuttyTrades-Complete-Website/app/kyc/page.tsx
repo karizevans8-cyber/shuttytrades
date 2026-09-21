@@ -1,0 +1,1 @@
+import { KycPage } from "@/components/DemoApp"; export default KycPage;

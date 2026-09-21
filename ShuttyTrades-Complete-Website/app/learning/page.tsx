@@ -1,0 +1,1 @@
+import { LearningPage } from "@/components/DemoApp"; export default LearningPage;

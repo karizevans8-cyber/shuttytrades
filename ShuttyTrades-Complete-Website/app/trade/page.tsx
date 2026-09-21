@@ -1,0 +1,1 @@
+import { TradePage } from "@/components/DemoApp"; export default TradePage;

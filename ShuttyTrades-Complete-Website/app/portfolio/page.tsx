@@ -1,0 +1,1 @@
+import { PortfolioPage } from "@/components/DemoApp"; export default PortfolioPage;
